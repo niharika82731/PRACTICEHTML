@@ -1,0 +1,87 @@
+.container{
+    background-color:black;
+    height: 500px;
+    width: 500px;
+    display: grid;
+    
+}
+#item{
+    background-color: crimson;
+    width: 200px;
+    height: 100px;
+    border: solid;
+    
+}
+.c{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 500px;
+    display: grid;
+  
+}
+#i{
+    background-color: crimson;
+    width:50px;
+    height:50px;
+    border: solid;
+   
+}
+.co{
+    background-color:navy;
+    height: 500px;
+    width: 500px;
+    display: grid;
+    grid-template-rows: 150px 150px 150x;
+    
+}
+#it{
+    background-color: crimson;
+    width:200px;
+    height: 100px;
+    border: solid;
+     
+}
+.con{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 500px;
+    display: grid;
+     grid-template-columns: auto auto auto;
+}
+#ite{
+    background-color: crimson;
+    width:200px;
+    height:100px;
+    border: solid;
+    
+}
+.coa{
+    background-color: palevioletred;
+    height: 500px;
+    width: 500px;
+    display: grid;
+     grid-template-columns: 100px 200px 300px;
+     grid-template-rows: 100px 200px ;
+}
+#its{
+    background-color: crimson;
+    width:200px;
+    height:100px;
+    border: solid;
+    
+}
+.cona{
+    background-color: goldenrod;
+    height: 500px;
+    width: 500px;
+    display: grid;
+     grid-template-columns: auto auto auto;
+     grid-template-rows: auto auto ;
+}
+#ites{
+    background-color: crimson;
+    width:200px;
+    height:100px;
+    border: solid;
+    
+}

@@ -1,0 +1,43 @@
+.container{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    align-items:baseline;
+}
+#item{
+    background-color: crimson;
+    width:50px;
+    height:30px;
+    border: solid;
+   
+}
+
+
+.c{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 1000px;
+    display: flex;
+   align-content:center ;
+}
+
+#i{
+    background-color: crimson;
+    width:50px;
+    height:30px;
+    border: solid;
+}
+.co{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    align-self: center;
+}
+#it{
+    background-color: crimson;
+    width:50px;
+    height:30px;
+    border: solid;
+}

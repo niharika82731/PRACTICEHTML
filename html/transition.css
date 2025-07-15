@@ -1,0 +1,22 @@
+div{
+    background-color: indigo;
+    height: 400px;
+    width:400px;
+    transition: 4s;
+    transition-delay: 1s;
+}
+div:hover{
+    background-color: hotpink;
+    border-radius: 100px;
+}
+#d{
+    background-color: rgb(61, 8, 234);
+    height: 400px;
+    width:400px;
+    transition: 4s;
+    transition-delay: 1s;
+}
+#d:hover{
+    background-color: rgb(232, 74, 11);
+    border-radius: 50%;
+}

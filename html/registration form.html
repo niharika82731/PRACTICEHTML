@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REGISTRATION FORM</title>
+    <center>
+    <h1>Event Registration Form</h1>
+    </center>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>Enter your Details</legend>
+            </field><br>
+        <label>Full name : <br>
+        <input type="Username" placeholder="Enter your full name" required>
+        </label><br><br>
+        <label>Phone number:<br>
+        <input type=" number" placeholder="Enter your phone number" required>
+        </label><br><br>
+        <label>email:  <br>
+        <input type="email" placeholder="Enter your email address" required>
+        </label><br><br>
+        <label>Select Date:<br>
+        <input type="date">
+        </label><br><br>
+        <label>Select Date&time:<br> 
+        <input type="datetime-local" >
+        </label><br><br>
+        <label>Event Category:<br>
+            <select name="category" id="category">
+                <option select hidden>Please select option</option><br>
+                <option value="session 1">session1</option><br>
+                <option value="session 2">session1</option><br>
+                <option value="session 3">session3</option><br>
+            </select>
+        </label><br><br>
+        <label>Mode of attendance:</label><br>
+        <label>
+            <input type="radio" id="online" value="online" name="mode">
+        Online</label><br>
+        <label>
+            <input type="radio" id="offline" value="offline" name="mode">
+        Offline</label><br><br>
+        <label>Skills interested</label><br>
+        <label>
+        <input type="checkbox" id="AI" value="AI" >
+         AI</label><br>
+         <label>
+        <input type="checkbox" id="Data science" value="Data Science" >
+         Data Science</label><br>
+         <label>
+        <input type="checkbox" id="Web Devolpment" value="Web Development" >
+       Web Devolpment</label><br>
+         <label>
+        <input type="checkbox" id="Deep Learning" value="Deep Learning" >
+         Deep Learning</label><br><br>
+         <label>Linkedin URL:</label><br>
+         <input type="text" placeholder="https://linkedin.com/In/yourname"><br><br>
+         <label>Upload resume: <br>
+            <input type="file">
+           <br><br>
+         </label>
+         <button type="submit">Submit</button>
+         <button type="button">Confirm
+         </button>
+        </form>
+</body>
+</html>

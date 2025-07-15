@@ -1,0 +1,84 @@
+.container{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 300px;
+    display: flex;
+    justify-content: flex-end;
+}
+#item{
+    background-color: crimson;
+    width:20px;
+    height:10px;
+    border: solid;
+    
+}
+.c{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 300px;
+    display: flex;
+     justify-content: flex-start;
+}
+#i{
+    background-color: crimson;
+    width:20px;
+    height:10px;
+    border: solid;
+     
+}
+.co{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 300px;
+    display: flex;
+     justify-content: center;
+}
+#it{
+    background-color: crimson;
+    width:20px;
+    height:10px;
+    border: solid;
+    
+}
+.con{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 300px;
+    display: flex;
+     justify-content: space-around;
+}
+#ite{
+    background-color: crimson;
+    width:20px;
+    height:10px;
+    border: solid;
+    
+}
+.coa{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 300px;
+    display: flex;
+     justify-content: space-between;
+}
+#its{
+    background-color: crimson;
+    width:20px;
+    height:10px;
+    border: solid;
+    
+}
+.cona{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 300px;
+    display: flex;
+     justify-content: space-evenly;
+}
+#ites{
+    background-color: crimson;
+    width:20px;
+    height:10px;
+    border: solid;
+    
+}

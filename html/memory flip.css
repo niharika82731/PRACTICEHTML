@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(242, 217, 242);
+     animation-name:animation;
+        animation-duration:2s;
+        animation-timing-function:ease-in-out;
+        animation-delay:1;
+        animation-iteration-count:infinite;
+        animation-direction: normal;}
+    
+    @keyframes move-left {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+
+
+  }
+}
+
+
+
+
+    .
