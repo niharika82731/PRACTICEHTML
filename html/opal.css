@@ -1,0 +1,11 @@
+#alpha{
+    background-color: rgba(155, 16, 16, 0.2);
+    height:50px;
+    width: 200px;
+}
+#opacity{
+    background-color: palevioletred;
+    opacity:0.3;
+    height:50px;
+    width: 200px;
+}

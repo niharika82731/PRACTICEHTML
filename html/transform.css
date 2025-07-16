@@ -1,0 +1,119 @@
+.div{
+ background-color: darkmagenta;
+ height: 2px;
+ width: 2px;
+ margin:10px auto;
+ transition: 2s;
+}
+#div1:hover{
+    background-color: indianred;
+    transform:rotate(90deg);
+    
+}
+#div2:hover{
+    background-color: indianred;
+    transform:scale(4);
+}
+#div3:hover{
+   
+    background-color: indianred;
+    transform:skew(45deg);
+}
+
+#div3:hover{
+    background-color: indianred;
+    transform: translateX(x);
+    
+}
+#div4:hover{
+    background-color: indianred;
+    transform: translateY(y);
+}
+#div5:hover{
+   
+    background-color: indianred;
+    transform:translateZ(z);
+}
+
+
+#div1:hover{
+    background-color: indianred;
+    transform:rotate(90deg);
+    
+}
+#div2:hover{
+    background-color: indianred;
+    transform:scale(4);
+}
+#div3:hover{
+   
+    background-color: indianred;
+    transform:skew(45deg);
+}
+
+#div3:hover{
+    background-color: indianred;
+    transform: translateX(x);
+    
+}
+#div4:hover{
+    background-color: indianred;
+    transform: translateY(y);
+}
+#div5:hover{
+   
+    background-color: indianred;
+    transform:translateZ(z);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

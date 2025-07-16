@@ -1,0 +1,63 @@
+.container{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 600px;
+    display: flex;
+    
+}
+#item{
+    background-color: crimson;
+    width:50px;
+    height:30px;
+    border: solid;
+     
+}
+#item4{
+    background-color: crimson;
+    width:50px;
+    height:30px;
+    border: solid;
+    flex-grow: 2;
+}
+.c{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 600px;
+    display: flex;
+   
+}
+#i{
+    background-color: crimson;
+    width:50px;
+    height:30px;
+    border: solid;
+  
+    }
+    #i4{
+    background-color: crimson;
+    width:50px;
+    height:30px;
+    border: solid;
+    flex-basis: 2;
+  
+    }
+    .co{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 600px;
+    display: flex;
+    }
+#it{
+    background-color: crimson;
+    width:200px;
+    height:100px;
+    border: solid;
+    
+}
+#it4{
+    background-color: crimson;
+    width:200px;
+    height:100px;
+    border: solid;
+    
+flex-shrink: 5;}
