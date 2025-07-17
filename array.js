@@ -50,7 +50,7 @@ a.push(2)
 console.log(b)
 console.log(c)
  
-let ar=[[1,2,4],[5,6,7],[1,32,5]]
+let ar=[[1,2,4],[5,6,7],[1,32,5]]// to form a 
 console.log(ar)
 const d=[2,3,4]
  d=[4,5]
